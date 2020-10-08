@@ -24,6 +24,23 @@
   color: white;
 }
 
+.btn {
+  display: inline-block;
+  border: none;
+  background: grey;
+  color: white;
+  padding: 7px 20px;
+  cursor: pointer;
+}
+
+.container {
+  padding: 0 1rem;
+}
+
+.btn:hover {
+  background: grey;
+}
+
 .App-link {
   color: #61dafb;
 }
